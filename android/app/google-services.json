@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "978132866325",
+    "project_id": "customer-ftp",
+    "storage_bucket": "customer-ftp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978132866325:android:97ea3f01c3be4c8803451c",
+        "android_client_info": {
+          "package_name": "com.ftponline.custmor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978132866325-2smgcffdkheisqiecqa8hqbpn7c95u9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftponline.custmor",
+            "certificate_hash": "4a8a753dd25fe52566e321ab8a71aa2124e84958"
+          }
+        },
+        {
+          "client_id": "978132866325-jheq2c9dhdvmt4n0ksk5q85vu7h062ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftponline.custmor",
+            "certificate_hash": "dbca31a73aecd863d78f0f771bca2fa3d633c848"
+          }
+        },
+        {
+          "client_id": "978132866325-oqnhgt1s5ddh04kafk232m0r00tsu6m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftponline.custmor",
+            "certificate_hash": "fc381c3fa6eec61030449fe915a569431bf37e40"
+          }
+        },
+        {
+          "client_id": "978132866325-p8855kgocbrpll05phft0up4r4rku4om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftponline.custmor",
+            "certificate_hash": "a25cd4796e0f2e8b2f39ca602744c42d398fd311"
+          }
+        },
+        {
+          "client_id": "978132866325-vrul2l4hjb1h648b3c3e64cdjmk455en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaPg9p9ilSclzieKKLxi543sq85WIe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978132866325-ersghgcbbc1mp8doipcahilsobrk9nr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
